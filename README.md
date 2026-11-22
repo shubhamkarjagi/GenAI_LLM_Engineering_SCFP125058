@@ -1,8 +1,8 @@
-# GenAI & LLM Engineering — SCFP125030
+# GenAI & LLM Engineering — SCFP125058
 
-**Repository:** `GenAI_LLM_Engineering_SCFP125030`  
+**Repository:** `GenAI_LLM_Engineering_SCFP125058`  
 **GitHub owner:** [Virajkandikatla](https://github.com/Virajkandikatla)  
-**Project ID:** `SCFP125030`
+**Project ID:** `SCFP125058`
 
 This is a personalized, cleaned, runnable-oriented package of the uploaded course notebooks. It retains all **24 original notebooks**, includes equivalent **24 Python scripts** in `scripts/`, adds dependency files, a simulated IMDb CSV for demos, and a clearly labeled PDF example for the research assistant.
 
