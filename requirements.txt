@@ -1,0 +1,14 @@
+# Python 3.11 recommended on Windows. Install: python -m pip install -r requirements.txt
+jupyterlab>=4,<5
+ipykernel>=6,<8
+numpy>=1.26,<3
+pandas>=2,<4
+scikit-learn>=1.4,<2
+torch>=2.2,<3
+tiktoken>=0.7,<1
+groq>=0.12,<1
+python-dotenv>=1,<2
+langchain-core>=0.3,<2
+langchain-groq>=0.2,<2
+pydantic>=2,<3
+requests>=2.31,<3

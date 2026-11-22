@@ -1,0 +1,4 @@
+# OPTIONAL: large PDF parser; set USE_DOCLING=1 in .env to enable.
+-r requirements-rag.txt
+langchain-docling
+docling

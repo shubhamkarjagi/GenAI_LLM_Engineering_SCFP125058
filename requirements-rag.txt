@@ -1,0 +1,8 @@
+# Install RAG features after the base dependencies.
+-r requirements.txt
+pymupdf>=1.24,<2
+langchain-text-splitters>=0.3,<2
+langchain-huggingface>=0.1,<2
+langchain-chroma>=0.1,<2
+chromadb>=0.5,<2
+sentence-transformers>=3,<6

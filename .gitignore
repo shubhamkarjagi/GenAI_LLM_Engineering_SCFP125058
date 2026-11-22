@@ -1,0 +1,22 @@
+# Secrets & local configuration
+.env
+.env.*
+!.env.example
+# Virtual environments and Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+# Generated artifacts
+RAG-2/rag_db/
+rag_db/
+models/
+*.pt
+*.pth
+# Local/private PDFs or full movie datasets are not checked in
+IMDB Dataset.csv
+data/IMDB Dataset.csv
+RAG-2/ResearchPapers/*.pdf
+!RAG-2/ResearchPapers/DEMO_RAG_Overview.pdf
